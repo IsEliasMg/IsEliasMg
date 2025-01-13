@@ -1,10 +1,8 @@
 # Hey,[Elias here!](https://www.instagram.com/mayoreliass/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+
 
 Soy estudiante de ingeniería en software. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end, actualemente me encuentro a punto de culminar la carrera. Apasionado por el desarrollo frontend y siempre listo para enfrentar nuevos desafíos. Tengo un gran entusiasmo por aprender y destacarme en el mundo de la tecnología, especialmente en la creación de interfaces atractivas y funcionales. Me emociona participar en proyectos innovadores donde pueda aplicar y mejorar mis habilidades en HTML, CSS, JavaScript y frameworks modernos.<br><br>Estoy en constante búsqueda de oportunidades para colaborar en equipos y contribuir con un enfoque centrado en el usuario y la experiencia visual. 
-<br>
-<br>
 <br>
 
 ## 🌐 Socials:

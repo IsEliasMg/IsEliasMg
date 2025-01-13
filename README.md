@@ -2,7 +2,7 @@
 
 
 
-Soy estudiante de ingeniería en software. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end, actualemente me encuentro a punto de culminar la carrera. Apasionado por el desarrollo frontend y siempre listo para enfrentar nuevos desafíos. Tengo un gran entusiasmo por aprender y destacarme en el mundo de la tecnología, especialmente en la creación de interfaces atractivas y funcionales. Me emociona participar en proyectos innovadores donde pueda aplicar y mejorar mis habilidades en HTML, CSS, JavaScript y frameworks modernos.<br>
+Soy estudiante de ingeniería en software. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end, actualmente me encuentro en octavo cuatrimestre. Apasionado por el desarrollo frontend y siempre listo para enfrentar nuevos desafíos. Tengo un gran entusiasmo por aprender y destacarme en el mundo de la tecnología, especialmente en la creación de interfaces atractivas y funcionales. Me emociona participar en proyectos innovadores donde pueda aplicar y mejorar mis habilidades en HTML, CSS, JavaScript y frameworks modernos.<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yesiamelias)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayoreliass)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@mayor_elias) 
